@@ -1,2 +1,3 @@
 //comentari
-let prova;
+let prova = 0;
+console.log(prova);
